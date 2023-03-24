@@ -1,0 +1,58 @@
+.nodeLabel1 {
+  fill: #121de1;
+  stroke: #121de1;
+  /* width: 1500px !important;
+    height: 800px !important; */
+}
+
+.Canvas-module_container__22cN4.Canvas-module_pannable__1d7xd {
+  margin-left: 120px !important;
+}
+
+.primary {
+  fill: #b9b8e5;
+  stroke: #b9b8e5;
+  color: #fff;
+}
+
+.warning {
+  fill: #ffc874;
+  stroke: #ffc874;
+  color: #fff;
+}
+
+.info {
+  fill: #8bcff4;
+  stroke: #8bcff4;
+  color: #fff;
+  border-radius: 25px;
+}
+
+.success {
+  fill: #95df2b;
+  stroke: #95df2b;
+  color: #fff;
+}
+
+.light {
+  fill: #aaa;
+  stroke: #aaa;
+  color: #fff;
+}
+
+.Label-module_text__126dD {
+  fill: #2b2c3e;
+}
+
+.darkligt {
+  background: #707070;
+  color: #fff;
+  position: absolute;
+  bottom: 8%;
+  right: 8%;
+  font-size: large;
+  padding: 15px 25px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+}
